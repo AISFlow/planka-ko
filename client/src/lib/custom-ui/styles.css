@@ -57,6 +57,278 @@
   unicode-range: U+0000-036F, U+0400-1EFF, U+2000-10FFFF;
 }
 
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-kr/files/noto-sans-kr-korean-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-kr/files/noto-sans-kr-korean-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-kr/files/noto-sans-kr-korean-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-kr/files/noto-sans-kr-korean-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-kr/files/noto-serif-kr-korean-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-kr/files/noto-serif-kr-korean-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-kr/files/noto-serif-kr-korean-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif KR';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-kr/files/noto-serif-kr-korean-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-jp/files/noto-sans-jp-japanese-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-jp/files/noto-sans-jp-japanese-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-jp/files/noto-sans-jp-japanese-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans-jp/files/noto-sans-jp-japanese-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-jp/files/noto-serif-jp-japanese-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-jp/files/noto-serif-jp-japanese-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-jp/files/noto-serif-jp-japanese-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif JP';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif-jp/files/noto-serif-jp-japanese-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-500-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-600-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-sans/files/noto-sans-latin-700-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-500-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-600-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-500-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-600-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/@fontsource/noto-serif/files/noto-serif-latin-700-italic.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'D2Coding';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../../../node_modules/d2coding/fonts/d2coding-full.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'D2Coding';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../../../node_modules/d2coding/fonts/d2coding-bold-full.woff2') format('woff2');
+}
+
 /*!
 * # Semantic UI 2.4.1 - Reset
 * http://github.com/semantic-org/semantic-ui/
@@ -194,7 +466,7 @@ hr {
 */
 
 pre {
-  font-family: monospace, monospace;
+  font-family: D2Coding, monospace;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -256,7 +528,7 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace;
+  font-family: D2Coding, monospace;
   /* 1 */
   font-size: 1em;
   /* 2 */
@@ -617,7 +889,7 @@ body {
   overflow-x: hidden;
   min-width: 320px;
   background: #ffffff;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
   font-size: 14px;
   line-height: 1.4285em;
   color: rgba(0, 0, 0, 0.87);
@@ -633,7 +905,8 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   line-height: 1.28571429em;
   margin: calc(2rem - 0.14285714em) 0em 1rem;
   font-weight: bold;
@@ -830,7 +1103,8 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
   vertical-align: baseline;
   background: #e0e1e2 none;
   color: rgba(0, 0, 0, 0.6);
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   margin: 0em 0.25em 0em 0em;
   padding: 0.78571429em 1.5em 0.78571429em;
   text-transform: none;
@@ -5305,7 +5579,8 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 /* Text Container */
 
 .ui.text.container {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   max-width: 700px !important;
   line-height: 1.5;
 }
@@ -6916,7 +7191,8 @@ i.flag.zimbabwe:before {
   border: none;
   margin: calc(2rem - 0.14285714em) 0em 1rem;
   padding: 0em 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-weight: bold;
   line-height: 1.28571429em;
   text-transform: none;
@@ -14249,7 +14525,8 @@ img.ui.bordered.image {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   text-align: left;
   line-height: 1.21428571em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   padding: 0.67857143em 1em;
   background: #ffffff;
   border: 1px solid rgba(34, 36, 38, 0.15);
@@ -16394,7 +16671,8 @@ ol.ui.list ol li,
 .ui.list>.item .header {
   display: block;
   margin: 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-weight: bold;
   color: rgba(0, 0, 0, 0.87);
 }
@@ -19582,7 +19860,8 @@ ol.ui.horizontal.list li:before,
 /* Title */
 
 .ui.steps .step .title {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 1.14285714em;
   font-weight: bold;
 }
@@ -20366,7 +20645,8 @@ ol.ui.horizontal.list li:before,
 .ui.form input[type="text"],
 .ui.form input[type="file"],
 .ui.form input[type="url"] {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   margin: 0em;
   outline: none;
   -webkit-appearance: none;
@@ -23790,7 +24070,8 @@ ol.ui.horizontal.list li:before,
   display: -ms-flexbox;
   display: flex;
   margin: 1rem 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   background: #ffffff;
   font-weight: normal;
   border: 1px solid rgba(34, 36, 38, 0.15);
@@ -26117,7 +26398,8 @@ Floated Menu / Item
 
 .ui.message .header {
   display: block;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-weight: bold;
   margin: -0.14285714em 0em 0rem 0em;
 }
@@ -28431,7 +28713,8 @@ Vertical Alignment
 .ui.card>.content>.header {
   display: block;
   margin: "";
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   color: rgba(0, 0, 0, 0.85);
 }
 
@@ -30166,7 +30449,8 @@ a.ui.card:hover,
 .ui.items>.item>.content>.header {
   display: inline-block;
   margin: -0.21425em 0em 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-weight: bold;
   color: rgba(0, 0, 0, 0.85);
 }
@@ -30642,7 +30926,8 @@ a.ui.card:hover,
 
 .ui.statistics .statistic>.value,
 .ui.statistic>.value {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 4rem;
   font-weight: normal;
   line-height: 1em;
@@ -30657,7 +30942,8 @@ a.ui.card:hover,
 
 .ui.statistics .statistic>.label,
 .ui.statistic>.label {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 1em;
   font-weight: bold;
   color: rgba(0, 0, 0, 0.87);
@@ -31205,7 +31491,8 @@ a.ui.card:hover,
 
 .ui.accordion .title:not(.ui) {
   padding: 0.5em 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 1em;
   color: rgba(0, 0, 0, 0.87);
 }
@@ -34309,7 +34596,8 @@ select.ui.dropdown {
 
 .ui.modal>.header {
   display: block;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   background: #ffffff;
   margin: 0em;
   padding: 1.25rem 1.5rem;
@@ -35103,7 +35391,8 @@ a.ui.nag {
 
 .ui.popup>.header {
   padding: 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 1.14285714em;
   line-height: 1.2;
   font-weight: bold;
@@ -36899,7 +37188,8 @@ a.ui.nag {
 
 .ui.search>.results .result .title {
   margin: -0.14285714em 0em 0em;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-weight: bold;
   font-size: 1em;
   color: rgba(0, 0, 0, 0.85);
@@ -36925,7 +37215,8 @@ a.ui.nag {
 }
 
 .ui.search>.results>.message .header {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 1rem;
   font-weight: bold;
   color: rgba(0, 0, 0, 0.87);
@@ -37142,7 +37433,8 @@ a.ui.nag {
   width: 100px;
   white-space: nowrap;
   background: transparent;
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   font-size: 1em;
   padding: 0.4em 1em;
   font-weight: bold;
@@ -40667,7 +40959,8 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: "Nunitoga", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-family: -apple-system, "Noto Sans KR", "Pretendard Variable", Pretendard, BlinkMacSystemFont, system-ui,  Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",  "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+
   resize: none !important;
 }
 
